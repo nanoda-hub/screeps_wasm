@@ -1,0 +1,18 @@
+# Compiled source #
+###################
+target
+dist
+pkg
+
+# Dependencies #
+################
+node_modules
+package-lock.json
+
+# Added by cargo
+
+/target
+
+# Config w/ secrets #
+#####################
+.screeps.yaml
